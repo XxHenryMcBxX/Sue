@@ -43,6 +43,7 @@ The following commands are currently supported:
 !sd
 !uptime
 !vote
+!hello
 ```
 
 Telegram uses the slash (/) prefix instead. Sue will not respond to you unless you use the proper prefix. **Do not just message her "hi", expecting a miracle**. You would be amazed how many people do. Discord uses exclamation mark same as iMessage.
